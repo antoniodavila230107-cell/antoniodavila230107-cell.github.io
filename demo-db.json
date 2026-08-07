@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Sara Demostración",
-      "password": "Demo2026!",
+      "name": "Sara Angulo",
+      "password": "Sara2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "cg",
@@ -19,8 +19,8 @@
     },
     {
       "id": 2,
-      "name": "Andrea López",
-      "password": "Demo2026!",
+      "name": "Jafet Alfaro",
+      "password": "Jafet2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -36,8 +36,8 @@
     },
     {
       "id": 3,
-      "name": "Félix Demostración",
-      "password": "Demo2026!",
+      "name": "Félix Euan",
+      "password": "Felix2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "coordinador",
@@ -53,8 +53,8 @@
     },
     {
       "id": 4,
-      "name": "Daphne Demostración",
-      "password": "Demo2026!",
+      "name": "Daphne Poot",
+      "password": "Daphne2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "coordinador",
@@ -70,8 +70,8 @@
     },
     {
       "id": 5,
-      "name": "Rodrigo Demostración",
-      "password": "Demo2026!",
+      "name": "Rodrigo Garduño",
+      "password": "Rodrigo2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "cg",
@@ -87,8 +87,8 @@
     },
     {
       "id": 6,
-      "name": "Daniel Demostración",
-      "password": "Demo2026!",
+      "name": "Daniel Dzul",
+      "password": "Daniel2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "coordinador",
@@ -104,8 +104,8 @@
     },
     {
       "id": 7,
-      "name": "Carlos Méndez",
-      "password": "Demo2026!",
+      "name": "Evelyn Morales",
+      "password": "Evelyn2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -121,8 +121,8 @@
     },
     {
       "id": 8,
-      "name": "Rocío Herrera",
-      "password": "Demo2026!",
+      "name": "Carlos Ceballos",
+      "password": "Carlos2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -138,8 +138,8 @@
     },
     {
       "id": 9,
-      "name": "Alán Domínguez",
-      "password": "Demo2026!",
+      "name": "Valentina Ku",
+      "password": "Valentina2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -155,8 +155,8 @@
     },
     {
       "id": 10,
-      "name": "Rocío Herrera",
-      "password": "Demo2026!",
+      "name": "Marco Díaz",
+      "password": "Marco2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -172,8 +172,8 @@
     },
     {
       "id": 11,
-      "name": "Isaías Cruz",
-      "password": "Demo2026!",
+      "name": "Alan Domínguez",
+      "password": "Alan2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -189,8 +189,8 @@
     },
     {
       "id": 12,
-      "name": "Evelyn Ramírez",
-      "password": "Demo2026!",
+      "name": "Janeth Tun",
+      "password": "Janeth2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -206,8 +206,8 @@
     },
     {
       "id": 13,
-      "name": "Valentina Ruiz",
-      "password": "Demo2026!",
+      "name": "Rocío Barrera",
+      "password": "Rocio2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -223,8 +223,8 @@
     },
     {
       "id": 14,
-      "name": "Janeth Luna",
-      "password": "Demo2026!",
+      "name": "Sergio Montero",
+      "password": "Sergio2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -240,8 +240,8 @@
     },
     {
       "id": 15,
-      "name": "Claudia Pérez",
-      "password": "Demo2026!",
+      "name": "Claudia Tlan",
+      "password": "Claudia2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -257,8 +257,8 @@
     },
     {
       "id": 16,
-      "name": "Sergio Torres",
-      "password": "Demo2026!",
+      "name": "Isaías Dzul",
+      "password": "Isaias2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -274,8 +274,8 @@
     },
     {
       "id": 17,
-      "name": "Joshua Medina",
-      "password": "Demo2026!",
+      "name": "Yesi Miss",
+      "password": "Yesi2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -291,8 +291,8 @@
     },
     {
       "id": 18,
-      "name": "Miriam Castillo",
-      "password": "Demo2026!",
+      "name": "Joshua González",
+      "password": "Joshua2026!",
       "mustChangePassword": false,
       "profileComplete": true,
       "role": "edecan",
@@ -307,9 +307,9 @@
       "uniform": "masculino"
     },
     {
-      "name": "Antonio Demostración",
+      "name": "Antonio Dávila",
       "role": "coordinador",
-      "password": "Demo2026!",
+      "password": "14022301",
       "mustChangePassword": false,
       "profileComplete": true,
       "phone": "999 000 0000",
@@ -1723,7 +1723,7 @@
       "userId": 3,
       "type": "cambio",
       "title": "Suplencia confirmada",
-      "message": "Claudia Pérez cubrirá la vacante de Academia Flory Febles.",
+      "message": "Claudia Tlan cubrirá la vacante de Academia Flory Febles.",
       "read": true,
       "eventId": 105,
       "createdAt": "2026-07-15T12:35:00-06:00"
@@ -1752,7 +1752,7 @@
       "userId": 1,
       "type": "event_report",
       "title": "Nuevo reporte · Academia Miriam Cazola",
-      "message": "Rodrigo Demostración registró incidencia en Academia Miriam Cazola.",
+      "message": "Rodrigo Garduño registró incidencia en Academia Miriam Cazola.",
       "read": true,
       "eventId": 106,
       "createdAt": "2026-07-25T18:14:35.677Z",
@@ -1762,7 +1762,7 @@
       "userId": 1,
       "type": "cancelacion_personal",
       "title": "Cancelación de asignación solicitada",
-      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "message": "Carlos Ceballos retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
       "read": true,
       "eventId": 101,
       "createdAt": "2026-08-03T04:00:13.744Z",
@@ -1772,7 +1772,7 @@
       "userId": 5,
       "type": "cancelacion_personal",
       "title": "Cancelación de asignación solicitada",
-      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "message": "Carlos Ceballos retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
       "read": false,
       "eventId": 101,
       "createdAt": "2026-08-03T04:00:13.744Z",
@@ -1782,7 +1782,7 @@
       "userId": 3,
       "type": "cancelacion_personal",
       "title": "Cancelación de asignación solicitada",
-      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "message": "Carlos Ceballos retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
       "read": false,
       "eventId": 101,
       "createdAt": "2026-08-03T04:00:13.744Z",
@@ -1792,7 +1792,7 @@
       "userId": 5,
       "type": "cancelacion_personal",
       "title": "Cancelación de asignación solicitada",
-      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "message": "Carlos Ceballos retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
       "read": false,
       "eventId": 101,
       "createdAt": "2026-08-03T04:00:13.744Z",
@@ -1802,7 +1802,7 @@
       "userId": 3,
       "type": "cancelacion_personal",
       "title": "Cancelación de asignación solicitada",
-      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "message": "Carlos Ceballos retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
       "read": false,
       "eventId": 101,
       "createdAt": "2026-08-03T04:00:13.744Z",
@@ -1911,7 +1911,7 @@
       "eventId": 105,
       "actorId": 1,
       "action": "Cancelación",
-      "detail": "Janeth Luna canceló por motivo personal.",
+      "detail": "Sergio Montero canceló por motivo personal.",
       "createdAt": "2026-07-15T12:00:00-06:00"
     },
     {
@@ -1919,7 +1919,7 @@
       "eventId": 105,
       "actorId": 1,
       "action": "Suplencia",
-      "detail": "Claudia Pérez cubre la asignación cancelada.",
+      "detail": "Claudia Tlan cubre la asignación cancelada.",
       "createdAt": "2026-07-15T12:30:00-06:00"
     },
     {
@@ -1934,7 +1934,7 @@
       "eventId": 101,
       "actorId": 1,
       "action": "Asignación",
-      "detail": "Daniel Demostración asignado como edecan",
+      "detail": "Daniel Dzul asignado como edecan",
       "createdAt": "2026-07-17T17:39:18.167Z",
       "id": 5
     },
@@ -1942,7 +1942,7 @@
       "eventId": 101,
       "actorId": 1,
       "action": "Asignación",
-      "detail": "Félix Demostración asignado como edecan",
+      "detail": "Félix Euan asignado como edecan",
       "createdAt": "2026-07-17T17:39:21.910Z",
       "id": 6
     },
@@ -1950,7 +1950,7 @@
       "eventId": 104,
       "actorId": 1,
       "action": "Asignación",
-      "detail": "Daniel Demostración asignado como edecan",
+      "detail": "Daniel Dzul asignado como edecan",
       "createdAt": "2026-07-17T17:39:28.171Z",
       "id": 7
     },
@@ -1958,7 +1958,7 @@
       "eventId": 101,
       "actorId": 1,
       "action": "Coordinador designado",
-      "detail": "Félix Demostración asignado como coordinador",
+      "detail": "Félix Euan asignado como coordinador",
       "createdAt": "2026-07-17T18:11:40.693Z",
       "id": 8
     },
@@ -1966,7 +1966,7 @@
       "eventId": 101,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Carlos Méndez asignado como edecan",
+      "detail": "Evelyn Morales asignado como edecan",
       "createdAt": "2026-07-17T18:11:51.382Z",
       "id": 9
     },
@@ -1974,7 +1974,7 @@
       "eventId": 102,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Carlos Méndez asignado como edecan",
+      "detail": "Evelyn Morales asignado como edecan",
       "createdAt": "2026-07-17T18:27:59.506Z",
       "id": 10
     },
@@ -1982,7 +1982,7 @@
       "eventId": 102,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Evelyn Ramírez asignado como edecan",
+      "detail": "Janeth Tun asignado como edecan",
       "createdAt": "2026-07-17T18:28:12.357Z",
       "id": 11
     },
@@ -1990,7 +1990,7 @@
       "eventId": 101,
       "actorId": 8,
       "action": "Cancelación de participación solicitada",
-      "detail": "Rocío Herrera retiró su disponibilidad después de haber sido asignado como edecan.",
+      "detail": "Carlos Ceballos retiró su disponibilidad después de haber sido asignado como edecan.",
       "createdAt": "2026-08-03T04:00:13.744Z",
       "id": 12
     },
@@ -1998,7 +1998,7 @@
       "eventId": 101,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Daniel Demostración asignado como edecan",
+      "detail": "Daniel Dzul asignado como edecan",
       "createdAt": "2026-08-03T04:00:46.924Z",
       "id": 13
     },
@@ -2006,7 +2006,7 @@
       "eventId": 102,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Evelyn Ramírez asignado como edecan",
+      "detail": "Janeth Tun asignado como edecan",
       "createdAt": "2026-08-03T04:01:00.134Z",
       "id": 14
     },
@@ -2014,7 +2014,7 @@
       "eventId": 105,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Janeth Luna asignado como edecan",
+      "detail": "Sergio Montero asignado como edecan",
       "createdAt": "2026-08-03T04:58:22.148Z",
       "id": 15
     },
@@ -2022,7 +2022,7 @@
       "eventId": 106,
       "actorId": 1,
       "action": "Edecán designado",
-      "detail": "Antonio Demostración asignado como edecan",
+      "detail": "Antonio Dávila asignado como edecan",
       "createdAt": "2026-08-03T04:59:06.537Z",
       "id": 16
     },
@@ -2030,7 +2030,7 @@
       "eventId": 104,
       "actorId": 1,
       "action": "Coordinador designado",
-      "detail": "Sara Demostración asignado como coordinador",
+      "detail": "Sara Angulo asignado como coordinador",
       "createdAt": "2026-08-03T05:26:06.524Z",
       "id": 17
     }
