@@ -1047,6 +1047,13 @@
       "eventId": 106,
       "available": true,
       "submittedAt": "2026-07-15T18:04:00-06:00"
+    },
+    {
+      "id": 65,
+      "userId": 20,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-15T18:05:00-06:00"
     }
   ],
   "assignments": [
@@ -1707,6 +1714,30 @@
       "status": "asignada",
       "createdAt": "2026-08-03T05:26:00.006Z",
       "id": 82
+    },
+    {
+      "id": 83,
+      "eventId": 105,
+      "userId": 20,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T18:10:00-06:00"
+    },
+    {
+      "id": 84,
+      "eventId": 106,
+      "userId": 20,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T18:11:00-06:00"
+    },
+    {
+      "id": 85,
+      "eventId": 108,
+      "userId": 20,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T18:12:00-06:00"
     }
   ],
   "notifications": [
