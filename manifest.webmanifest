@@ -1,0 +1,18 @@
+{
+  "name": "Anfitriones · Logística y asignación",
+  "short_name": "Anfitriones",
+  "description": "Agenda, disponibilidad y coordinación de eventos del equipo Anfitriones.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f8fa",
+  "theme_color": "#57c7d4",
+  "lang": "es-MX",
+  "icons": [{ "src": "./app-icon.png?v=1", "sizes": "1254x1254", "type": "image/png", "purpose": "any maskable" }],
+  "shortcuts": [
+    { "name": "Inicio", "url": "./#/", "icons": [{ "src": "./app-icon.png?v=1", "sizes": "1254x1254", "type": "image/png" }] },
+    { "name": "Agenda", "url": "./#/calendario", "icons": [{ "src": "./app-icon.png?v=1", "sizes": "1254x1254", "type": "image/png" }] },
+    { "name": "Avisos", "url": "./#/notificaciones", "icons": [{ "src": "./app-icon.png?v=1", "sizes": "1254x1254", "type": "image/png" }] }
+  ]
+}

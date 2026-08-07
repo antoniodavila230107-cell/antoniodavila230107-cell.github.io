@@ -1,0 +1,2370 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sara Demostración",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "cg",
+      "phone": "999 000 0000",
+      "email": "demo1@example.com",
+      "active": true,
+      "avatar": "#bcecf0",
+      "rating": 5,
+      "attended": 0,
+      "cancellations": 0,
+      "substitutions": 0,
+      "uniform": "masculino"
+    },
+    {
+      "id": 2,
+      "name": "Andrea López",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo2@example.com",
+      "active": true,
+      "avatar": "#ead1ef",
+      "rating": 4.45,
+      "attended": 18,
+      "cancellations": 1,
+      "substitutions": 2,
+      "uniform": "masculino"
+    },
+    {
+      "id": 3,
+      "name": "Félix Demostración",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "coordinador",
+      "phone": "999 000 0000",
+      "email": "demo3@example.com",
+      "active": true,
+      "avatar": "#bcecf0",
+      "rating": 4.75,
+      "attended": 42,
+      "cancellations": 1,
+      "substitutions": 3,
+      "uniform": "masculino"
+    },
+    {
+      "id": 4,
+      "name": "Daphne Demostración",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "coordinador",
+      "phone": "999 000 0000",
+      "email": "demo4@example.com",
+      "active": true,
+      "avatar": "#ead1ef",
+      "rating": 4.85,
+      "attended": 38,
+      "cancellations": 0,
+      "substitutions": 2,
+      "uniform": "femenino"
+    },
+    {
+      "id": 5,
+      "name": "Rodrigo Demostración",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "cg",
+      "phone": "999 000 0000",
+      "email": "demo5@example.com",
+      "active": true,
+      "avatar": "#f8d8df",
+      "rating": 5,
+      "attended": 0,
+      "cancellations": 0,
+      "substitutions": 0,
+      "uniform": "masculino"
+    },
+    {
+      "id": 6,
+      "name": "Daniel Demostración",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "coordinador",
+      "phone": "999 000 0000",
+      "email": "demo6@example.com",
+      "active": true,
+      "avatar": "#ffe5ae",
+      "rating": 4.65,
+      "attended": 40,
+      "cancellations": 1,
+      "substitutions": 1,
+      "uniform": "masculino"
+    },
+    {
+      "id": 7,
+      "name": "Carlos Méndez",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo7@example.com",
+      "active": true,
+      "avatar": "#f2cadf",
+      "rating": 4.75,
+      "attended": 24,
+      "cancellations": 1,
+      "substitutions": 2,
+      "uniform": "femenino"
+    },
+    {
+      "id": 8,
+      "name": "Rocío Herrera",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo8@example.com",
+      "active": true,
+      "avatar": "#cdeaf6",
+      "rating": 4.5,
+      "attended": 21,
+      "cancellations": 1,
+      "substitutions": 1,
+      "uniform": "masculino"
+    },
+    {
+      "id": 9,
+      "name": "Alán Domínguez",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo9@example.com",
+      "active": true,
+      "avatar": "#e5d2f1",
+      "rating": 4.9,
+      "attended": 19,
+      "cancellations": 0,
+      "substitutions": 2,
+      "uniform": "femenino"
+    },
+    {
+      "id": 10,
+      "name": "Rocío Herrera",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo10@example.com",
+      "active": true,
+      "avatar": "#d5ece0",
+      "rating": 4.25,
+      "attended": 17,
+      "cancellations": 2,
+      "substitutions": 0,
+      "uniform": "masculino"
+    },
+    {
+      "id": 11,
+      "name": "Isaías Cruz",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo11@example.com",
+      "active": true,
+      "avatar": "#f8dfbd",
+      "rating": 4.6,
+      "attended": 26,
+      "cancellations": 1,
+      "substitutions": 3,
+      "uniform": "masculino"
+    },
+    {
+      "id": 12,
+      "name": "Evelyn Ramírez",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo12@example.com",
+      "active": true,
+      "avatar": "#c6e7e7",
+      "rating": 4.8,
+      "attended": 29,
+      "cancellations": 0,
+      "substitutions": 1,
+      "uniform": "femenino"
+    },
+    {
+      "id": 13,
+      "name": "Valentina Ruiz",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo13@example.com",
+      "active": true,
+      "avatar": "#f1d0dd",
+      "rating": 4.7,
+      "attended": 22,
+      "cancellations": 1,
+      "substitutions": 2,
+      "uniform": "femenino"
+    },
+    {
+      "id": 14,
+      "name": "Janeth Luna",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo14@example.com",
+      "active": true,
+      "avatar": "#d8dfef",
+      "rating": 4.1,
+      "attended": 14,
+      "cancellations": 2,
+      "substitutions": 1,
+      "uniform": "masculino"
+    },
+    {
+      "id": 15,
+      "name": "Claudia Pérez",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo15@example.com",
+      "active": true,
+      "avatar": "#e2d2ee",
+      "rating": 4.85,
+      "attended": 20,
+      "cancellations": 0,
+      "substitutions": 4,
+      "uniform": "femenino"
+    },
+    {
+      "id": 16,
+      "name": "Sergio Torres",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo16@example.com",
+      "active": true,
+      "avatar": "#cfe3ed",
+      "rating": 4.4,
+      "attended": 18,
+      "cancellations": 1,
+      "substitutions": 2,
+      "uniform": "masculino"
+    },
+    {
+      "id": 17,
+      "name": "Joshua Medina",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo17@example.com",
+      "active": true,
+      "avatar": "#f4ced8",
+      "rating": 4.55,
+      "attended": 16,
+      "cancellations": 1,
+      "substitutions": 3,
+      "uniform": "femenino"
+    },
+    {
+      "id": 18,
+      "name": "Miriam Castillo",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo18@example.com",
+      "active": true,
+      "avatar": "#d6ebd8",
+      "rating": 4.35,
+      "attended": 15,
+      "cancellations": 2,
+      "substitutions": 2,
+      "uniform": "masculino"
+    },
+    {
+      "name": "Antonio Demostración",
+      "role": "coordinador",
+      "password": "Demo2026!",
+      "mustChangePassword": false,
+      "profileComplete": true,
+      "phone": "999 000 0000",
+      "email": "demo19@example.com",
+      "active": true,
+      "avatar": "#bcecf0",
+      "rating": 0,
+      "attended": 0,
+      "cancellations": 0,
+      "substitutions": 0,
+      "uniform": "masculino",
+      "id": 19
+    }
+  ],
+  "weeks": [
+    {
+      "id": 1,
+      "label": "Semana 16–19 julio",
+      "start": "2026-07-16",
+      "end": "2026-07-22",
+      "status": "publicada",
+      "current": true,
+      "days": 7,
+      "publishedDates": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Semana 9–12 julio",
+      "start": "2026-07-09",
+      "end": "2026-07-12",
+      "status": "archivada",
+      "current": false,
+      "days": 4,
+      "publishedDates": [
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 101,
+      "weekId": 1,
+      "name": "Academia Lili'rib",
+      "venue": "Salón Vértice",
+      "address": "Av. Principal 114, Mérida",
+      "date": "2026-07-16",
+      "arrival": "16:30",
+      "start": "17:00",
+      "end": "18:00",
+      "required": 6,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Uniforme formal negro.",
+      "updated": true,
+      "paymentStatus": "pendiente",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 102,
+      "weekId": 1,
+      "name": "Academia Yerbabuena",
+      "venue": "Hotel Castilla",
+      "address": "Calle 60 #290, Mérida",
+      "date": "2026-07-16",
+      "arrival": "17:30",
+      "start": "18:00",
+      "end": "19:00",
+      "required": 4,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Acceso por lobby principal.",
+      "updated": true,
+      "paymentStatus": "pendiente",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 103,
+      "weekId": 1,
+      "name": "Academia Fontaine",
+      "venue": "Gran Museo",
+      "address": "Paseo Montejo 88, Mérida",
+      "date": "2026-07-17",
+      "arrival": "17:30",
+      "start": "18:00",
+      "end": "19:00",
+      "required": 5,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Reunión previa 17:40.",
+      "updated": true,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 104,
+      "weekId": 1,
+      "name": "Academia Anuenue",
+      "venue": "Teatro Daniel Ayala",
+      "address": "Calle 60, Centro",
+      "date": "2026-07-17",
+      "arrival": "15:30",
+      "start": "16:00",
+      "end": "17:00",
+      "required": 4,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Vestido negro / traje negro.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 105,
+      "weekId": 1,
+      "name": "Academia Flory Febles",
+      "venue": "Teatro Peón Contreras",
+      "address": "Calle 60, Centro",
+      "date": "2026-07-18",
+      "arrival": "16:30",
+      "start": "17:00",
+      "end": "18:00",
+      "required": 6,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Entregar gafetes al llegar.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 106,
+      "weekId": 1,
+      "name": "Academia Miriam Cazola",
+      "venue": "Palacio de la Música",
+      "address": "Calle 58, Centro",
+      "date": "2026-07-19",
+      "arrival": "17:30",
+      "start": "18:00",
+      "end": "19:00",
+      "required": 7,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Evento de alta afluencia.",
+      "updated": true,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 107,
+      "weekId": 1,
+      "name": "Evento Extra",
+      "venue": "Palacio de la Música",
+      "address": "Calle 58, Centro",
+      "date": "2026-07-16",
+      "arrival": "18:30",
+      "start": "19:00",
+      "end": "20:00",
+      "required": 2,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Cancelado por el cliente.",
+      "updated": true,
+      "paymentStatus": "no_aplica",
+      "image": ""
+    },
+    {
+      "id": 108,
+      "weekId": 1,
+      "name": "Academia Andueñe",
+      "venue": "Hacienda Teya",
+      "address": "Km 12 carretera Cancún",
+      "date": "2026-07-17",
+      "arrival": "18:30",
+      "start": "19:00",
+      "end": "20:00",
+      "required": 8,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Transporte sale 17:45.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 109,
+      "weekId": 1,
+      "name": "Don Quijote Estudio",
+      "venue": "Teatro Armando Manzanero",
+      "address": "Calle 62, Centro",
+      "date": "2026-07-19",
+      "arrival": "16:30",
+      "start": "17:00",
+      "end": "18:00",
+      "required": 4,
+      "coordinatorRequired": true,
+      "status": "en_asignacion",
+      "notes": "Presentarse con zapato negro.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 201,
+      "weekId": 2,
+      "name": "Gala Horizonte",
+      "venue": "Centro de Convenciones",
+      "address": "Av. Colón 501",
+      "date": "2026-07-09",
+      "arrival": "17:00",
+      "start": "18:00",
+      "end": "21:00",
+      "required": 5,
+      "coordinatorRequired": true,
+      "status": "finalizado",
+      "notes": "Evento concluido.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    },
+    {
+      "id": 202,
+      "weekId": 2,
+      "name": "Graduación Monteverde",
+      "venue": "Hotel Fiesta Americana",
+      "address": "Paseo Montejo 451",
+      "date": "2026-07-10",
+      "arrival": "16:00",
+      "start": "17:00",
+      "end": "20:00",
+      "required": 6,
+      "coordinatorRequired": true,
+      "status": "finalizado",
+      "notes": "Evento concluido.",
+      "updated": false,
+      "paymentStatus": "pagado"
+    },
+    {
+      "id": 203,
+      "weekId": 2,
+      "name": "Premios Peninsulares",
+      "venue": "Teatro Armando Manzanero",
+      "address": "Calle 62, Centro",
+      "date": "2026-07-11",
+      "arrival": "18:00",
+      "start": "19:00",
+      "end": "22:00",
+      "required": 4,
+      "coordinatorRequired": true,
+      "status": "finalizado",
+      "notes": "Evento concluido con suplencia.",
+      "updated": false,
+      "paymentStatus": "programado"
+    },
+    {
+      "id": 204,
+      "weekId": 2,
+      "name": "Concierto Sinfónico",
+      "venue": "Palacio de la Música",
+      "address": "Calle 58, Centro",
+      "date": "2026-07-12",
+      "arrival": "16:00",
+      "start": "17:00",
+      "end": "20:00",
+      "required": 5,
+      "coordinatorRequired": true,
+      "status": "finalizado",
+      "notes": "Evento concluido.",
+      "updated": false,
+      "paymentStatus": "pendiente"
+    }
+  ],
+  "availability": [
+    {
+      "id": 1,
+      "userId": 3,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-14T10:00:00-06:00"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T10:00:00-06:00"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T10:00:00-06:00"
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-07-14T10:00:00-06:00"
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-07-14T11:00:00-06:00"
+    },
+    {
+      "id": 6,
+      "userId": 4,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T11:00:00-06:00"
+    },
+    {
+      "id": 7,
+      "userId": 4,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-14T11:00:00-06:00"
+    },
+    {
+      "id": 8,
+      "userId": 6,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T12:00:00-06:00"
+    },
+    {
+      "id": 9,
+      "userId": 6,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-14T12:00:00-06:00"
+    },
+    {
+      "id": 10,
+      "userId": 6,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T12:00:00-06:00"
+    },
+    {
+      "id": 11,
+      "userId": 6,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-14T13:00:00-06:00"
+    },
+    {
+      "id": 12,
+      "userId": 6,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T13:00:00-06:00"
+    },
+    {
+      "id": 13,
+      "userId": 6,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-07-14T13:00:00-06:00"
+    },
+    {
+      "id": 14,
+      "userId": 7,
+      "eventId": 101,
+      "available": false,
+      "submittedAt": "2026-07-26T05:50:24.369Z"
+    },
+    {
+      "id": 15,
+      "userId": 7,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T14:00:00-06:00"
+    },
+    {
+      "id": 16,
+      "userId": 7,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T14:00:00-06:00"
+    },
+    {
+      "id": 17,
+      "userId": 7,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T14:00:00-06:00"
+    },
+    {
+      "id": 18,
+      "userId": 7,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-07-14T14:00:00-06:00"
+    },
+    {
+      "id": 19,
+      "userId": 8,
+      "eventId": 101,
+      "available": false,
+      "submittedAt": "2026-08-03T04:00:13.744Z"
+    },
+    {
+      "id": 20,
+      "userId": 8,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-07-14T14:10:00-06:00"
+    },
+    {
+      "id": 21,
+      "userId": 8,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-14T14:10:00-06:00"
+    },
+    {
+      "id": 22,
+      "userId": 8,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-14T14:10:00-06:00"
+    },
+    {
+      "id": 23,
+      "userId": 9,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-07-14T14:20:00-06:00"
+    },
+    {
+      "id": 24,
+      "userId": 9,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T14:20:00-06:00"
+    },
+    {
+      "id": 25,
+      "userId": 9,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T14:20:00-06:00"
+    },
+    {
+      "id": 26,
+      "userId": 9,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T14:20:00-06:00"
+    },
+    {
+      "id": 27,
+      "userId": 10,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-14T15:00:00-06:00"
+    },
+    {
+      "id": 28,
+      "userId": 10,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-14T15:00:00-06:00"
+    },
+    {
+      "id": 29,
+      "userId": 10,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-14T15:00:00-06:00"
+    },
+    {
+      "id": 30,
+      "userId": 11,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-14T15:10:00-06:00"
+    },
+    {
+      "id": 31,
+      "userId": 11,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T15:10:00-06:00"
+    },
+    {
+      "id": 32,
+      "userId": 11,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T15:10:00-06:00"
+    },
+    {
+      "id": 33,
+      "userId": 12,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-07-14T15:20:00-06:00"
+    },
+    {
+      "id": 34,
+      "userId": 12,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T15:20:00-06:00"
+    },
+    {
+      "id": 35,
+      "userId": 12,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-14T15:20:00-06:00"
+    },
+    {
+      "id": 36,
+      "userId": 13,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-14T16:00:00-06:00"
+    },
+    {
+      "id": 37,
+      "userId": 13,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-14T16:00:00-06:00"
+    },
+    {
+      "id": 38,
+      "userId": 13,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-07-14T16:00:00-06:00"
+    },
+    {
+      "id": 39,
+      "userId": 14,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-14T16:20:00-06:00"
+    },
+    {
+      "id": 40,
+      "userId": 14,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T16:20:00-06:00"
+    },
+    {
+      "id": 41,
+      "userId": 15,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-14T17:00:00-06:00"
+    },
+    {
+      "id": 42,
+      "userId": 15,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T17:00:00-06:00"
+    },
+    {
+      "id": 43,
+      "userId": 16,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-07-14T17:20:00-06:00"
+    },
+    {
+      "id": 44,
+      "userId": 17,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-14T17:30:00-06:00"
+    },
+    {
+      "id": 45,
+      "userId": 18,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-07-14T17:40:00-06:00"
+    },
+    {
+      "userId": 7,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-07-17T18:27:48.989Z",
+      "id": 46
+    },
+    {
+      "userId": 19,
+      "eventId": 102,
+      "available": true,
+      "submittedAt": "2026-08-03T04:58:36.668Z",
+      "id": 47
+    },
+    {
+      "userId": 19,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-08-04T23:28:35.788Z",
+      "id": 48
+    },
+    {
+      "userId": 19,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-08-03T04:58:37.733Z",
+      "id": 49
+    },
+    {
+      "userId": 19,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-08-03T04:58:38.097Z",
+      "id": 50
+    },
+    {
+      "userId": 7,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-26T05:48:53.384Z",
+      "id": 51
+    },
+    {
+      "userId": 19,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-08-03T04:58:39.177Z",
+      "id": 52
+    },
+    {
+      "userId": 19,
+      "eventId": 107,
+      "available": true,
+      "submittedAt": "2026-08-03T05:03:27.820Z",
+      "id": 53
+    },
+    {
+      "userId": 19,
+      "eventId": 108,
+      "available": true,
+      "submittedAt": "2026-08-03T05:00:25.267Z",
+      "id": 54
+    },
+    {
+      "userId": 19,
+      "eventId": 109,
+      "available": true,
+      "submittedAt": "2026-08-03T05:00:25.544Z",
+      "id": 55
+    },
+    {
+      "userId": 19,
+      "eventId": 105,
+      "available": false,
+      "submittedAt": "2026-08-03T05:03:22.954Z",
+      "id": 56
+    },
+    {
+      "userId": 19,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-08-03T05:03:22.490Z",
+      "id": 57
+    },
+    {
+      "userId": 19,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-08-03T05:03:21.552Z",
+      "id": 58
+    },
+    {
+      "userId": 19,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-08-03T05:03:22.118Z",
+      "id": 59
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "eventId": 101,
+      "userId": 3,
+      "function": "coordinador",
+      "status": "cancelada",
+      "createdAt": "2026-07-15T09:00:00-06:00"
+    },
+    {
+      "id": 2,
+      "eventId": 101,
+      "userId": 7,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-15T09:02:00-06:00"
+    },
+    {
+      "id": 3,
+      "eventId": 101,
+      "userId": 8,
+      "function": "edecan",
+      "status": "cancelacion_solicitada",
+      "createdAt": "2026-07-15T09:03:00-06:00"
+    },
+    {
+      "id": 4,
+      "eventId": 101,
+      "userId": 10,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:04:00-06:00"
+    },
+    {
+      "id": 5,
+      "eventId": 101,
+      "userId": 11,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:05:00-06:00"
+    },
+    {
+      "id": 6,
+      "eventId": 101,
+      "userId": 13,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:06:00-06:00"
+    },
+    {
+      "id": 7,
+      "eventId": 101,
+      "userId": 16,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:07:00-06:00"
+    },
+    {
+      "id": 8,
+      "eventId": 102,
+      "userId": 4,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:10:00-06:00"
+    },
+    {
+      "id": 9,
+      "eventId": 102,
+      "userId": 8,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:11:00-06:00"
+    },
+    {
+      "id": 10,
+      "eventId": 102,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:12:00-06:00"
+    },
+    {
+      "id": 11,
+      "eventId": 102,
+      "userId": 12,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-15T09:13:00-06:00"
+    },
+    {
+      "id": 12,
+      "eventId": 103,
+      "userId": 6,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:20:00-06:00"
+    },
+    {
+      "id": 13,
+      "eventId": 103,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:21:00-06:00"
+    },
+    {
+      "id": 14,
+      "eventId": 103,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:22:00-06:00"
+    },
+    {
+      "id": 15,
+      "eventId": 103,
+      "userId": 11,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:23:00-06:00"
+    },
+    {
+      "id": 16,
+      "eventId": 103,
+      "userId": 13,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:24:00-06:00"
+    },
+    {
+      "id": 17,
+      "eventId": 103,
+      "userId": 15,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:25:00-06:00"
+    },
+    {
+      "id": 18,
+      "eventId": 104,
+      "userId": 8,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:30:00-06:00"
+    },
+    {
+      "id": 19,
+      "eventId": 104,
+      "userId": 10,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:31:00-06:00"
+    },
+    {
+      "id": 20,
+      "eventId": 104,
+      "userId": 14,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T09:32:00-06:00"
+    },
+    {
+      "id": 21,
+      "eventId": 105,
+      "userId": 3,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:00:00-06:00"
+    },
+    {
+      "id": 22,
+      "eventId": 105,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:01:00-06:00"
+    },
+    {
+      "id": 23,
+      "eventId": 105,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:02:00-06:00"
+    },
+    {
+      "id": 24,
+      "eventId": 105,
+      "userId": 12,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:03:00-06:00"
+    },
+    {
+      "id": 25,
+      "eventId": 105,
+      "userId": 14,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-15T10:04:00-06:00"
+    },
+    {
+      "id": 26,
+      "eventId": 105,
+      "userId": 15,
+      "function": "edecan",
+      "status": "asignada",
+      "replacementFor": 25,
+      "createdAt": "2026-07-15T12:30:00-06:00"
+    },
+    {
+      "id": 27,
+      "eventId": 106,
+      "userId": 4,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:10:00-06:00"
+    },
+    {
+      "id": 28,
+      "eventId": 106,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:11:00-06:00"
+    },
+    {
+      "id": 29,
+      "eventId": 106,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:12:00-06:00"
+    },
+    {
+      "id": 30,
+      "eventId": 106,
+      "userId": 11,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:13:00-06:00"
+    },
+    {
+      "id": 31,
+      "eventId": 106,
+      "userId": 15,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:14:00-06:00"
+    },
+    {
+      "id": 32,
+      "eventId": 106,
+      "userId": 17,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:15:00-06:00"
+    },
+    {
+      "id": 33,
+      "eventId": 107,
+      "userId": 6,
+      "function": "coordinador",
+      "status": "cancelada_evento",
+      "createdAt": "2026-07-15T10:20:00-06:00"
+    },
+    {
+      "id": 34,
+      "eventId": 107,
+      "userId": 8,
+      "function": "edecan",
+      "status": "cancelada_evento",
+      "createdAt": "2026-07-15T10:21:00-06:00"
+    },
+    {
+      "id": 35,
+      "eventId": 107,
+      "userId": 12,
+      "function": "edecan",
+      "status": "cancelada_evento",
+      "createdAt": "2026-07-15T10:22:00-06:00"
+    },
+    {
+      "id": 36,
+      "eventId": 108,
+      "userId": 4,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:30:00-06:00"
+    },
+    {
+      "id": 37,
+      "eventId": 108,
+      "userId": 8,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:31:00-06:00"
+    },
+    {
+      "id": 38,
+      "eventId": 108,
+      "userId": 10,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:32:00-06:00"
+    },
+    {
+      "id": 39,
+      "eventId": 108,
+      "userId": 12,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:33:00-06:00"
+    },
+    {
+      "id": 40,
+      "eventId": 108,
+      "userId": 16,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:34:00-06:00"
+    },
+    {
+      "id": 41,
+      "eventId": 109,
+      "userId": 6,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:40:00-06:00"
+    },
+    {
+      "id": 42,
+      "eventId": 109,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:41:00-06:00"
+    },
+    {
+      "id": 43,
+      "eventId": 109,
+      "userId": 13,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:42:00-06:00"
+    },
+    {
+      "id": 44,
+      "eventId": 109,
+      "userId": 18,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:43:00-06:00"
+    },
+    {
+      "id": 45,
+      "eventId": 109,
+      "userId": 14,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-15T10:44:00-06:00"
+    },
+    {
+      "id": 46,
+      "eventId": 201,
+      "userId": 3,
+      "function": "coordinador",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:00:00-06:00"
+    },
+    {
+      "id": 47,
+      "eventId": 201,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:01:00-06:00"
+    },
+    {
+      "id": 48,
+      "eventId": 201,
+      "userId": 8,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:02:00-06:00"
+    },
+    {
+      "id": 49,
+      "eventId": 201,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:03:00-06:00"
+    },
+    {
+      "id": 50,
+      "eventId": 201,
+      "userId": 11,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:04:00-06:00"
+    },
+    {
+      "id": 51,
+      "eventId": 201,
+      "userId": 12,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-08T10:05:00-06:00"
+    },
+    {
+      "id": 52,
+      "eventId": 202,
+      "userId": 4,
+      "function": "coordinador",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:00:00-06:00"
+    },
+    {
+      "id": 53,
+      "eventId": 202,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:01:00-06:00"
+    },
+    {
+      "id": 54,
+      "eventId": 202,
+      "userId": 10,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:02:00-06:00"
+    },
+    {
+      "id": 55,
+      "eventId": 202,
+      "userId": 13,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:03:00-06:00"
+    },
+    {
+      "id": 56,
+      "eventId": 202,
+      "userId": 14,
+      "function": "edecan",
+      "status": "no_asistio",
+      "createdAt": "2026-07-09T10:04:00-06:00"
+    },
+    {
+      "id": 57,
+      "eventId": 202,
+      "userId": 15,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:05:00-06:00"
+    },
+    {
+      "id": 58,
+      "eventId": 202,
+      "userId": 17,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-09T10:06:00-06:00"
+    },
+    {
+      "id": 59,
+      "eventId": 203,
+      "userId": 6,
+      "function": "coordinador",
+      "status": "asistio",
+      "createdAt": "2026-07-10T10:00:00-06:00"
+    },
+    {
+      "id": 60,
+      "eventId": 203,
+      "userId": 8,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-10T10:01:00-06:00"
+    },
+    {
+      "id": 61,
+      "eventId": 203,
+      "userId": 11,
+      "function": "edecan",
+      "status": "sustituida",
+      "createdAt": "2026-07-10T10:02:00-06:00"
+    },
+    {
+      "id": 62,
+      "eventId": 203,
+      "userId": 16,
+      "function": "edecan",
+      "status": "asistio",
+      "replacementFor": 61,
+      "createdAt": "2026-07-10T13:00:00-06:00"
+    },
+    {
+      "id": 63,
+      "eventId": 203,
+      "userId": 12,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-10T10:03:00-06:00"
+    },
+    {
+      "id": 64,
+      "eventId": 203,
+      "userId": 18,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-10T10:04:00-06:00"
+    },
+    {
+      "id": 65,
+      "eventId": 204,
+      "userId": 6,
+      "function": "coordinador",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:00:00-06:00"
+    },
+    {
+      "id": 66,
+      "eventId": 204,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:01:00-06:00"
+    },
+    {
+      "id": 67,
+      "eventId": 204,
+      "userId": 9,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:02:00-06:00"
+    },
+    {
+      "id": 68,
+      "eventId": 204,
+      "userId": 13,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:03:00-06:00"
+    },
+    {
+      "id": 69,
+      "eventId": 204,
+      "userId": 15,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:04:00-06:00"
+    },
+    {
+      "id": 70,
+      "eventId": 204,
+      "userId": 17,
+      "function": "edecan",
+      "status": "asistio",
+      "createdAt": "2026-07-11T10:05:00-06:00"
+    },
+    {
+      "eventId": 101,
+      "userId": 6,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-17T17:39:18.118Z",
+      "id": 71
+    },
+    {
+      "eventId": 101,
+      "userId": 3,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-17T17:39:21.877Z",
+      "id": 72
+    },
+    {
+      "eventId": 104,
+      "userId": 6,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-17T17:39:28.133Z",
+      "id": 73
+    },
+    {
+      "eventId": 101,
+      "userId": 3,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-07-17T18:11:40.651Z",
+      "id": 74
+    },
+    {
+      "eventId": 101,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-17T18:11:51.347Z",
+      "id": 75
+    },
+    {
+      "eventId": 102,
+      "userId": 7,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-07-17T18:27:59.469Z",
+      "id": 76
+    },
+    {
+      "eventId": 102,
+      "userId": 12,
+      "function": "edecan",
+      "status": "cancelada",
+      "createdAt": "2026-07-17T18:28:12.333Z",
+      "id": 77
+    },
+    {
+      "eventId": 101,
+      "userId": 6,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-08-03T04:00:46.887Z",
+      "id": 78
+    },
+    {
+      "eventId": 102,
+      "userId": 12,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-08-03T04:01:00.101Z",
+      "id": 79
+    },
+    {
+      "eventId": 105,
+      "userId": 14,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-08-03T04:58:21.650Z",
+      "id": 80
+    },
+    {
+      "eventId": 106,
+      "userId": 19,
+      "function": "edecan",
+      "status": "asignada",
+      "createdAt": "2026-08-03T04:59:05.082Z",
+      "id": 81
+    },
+    {
+      "eventId": 104,
+      "userId": 1,
+      "function": "coordinador",
+      "status": "asignada",
+      "createdAt": "2026-08-03T05:26:00.006Z",
+      "id": 82
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 7,
+      "type": "asignacion",
+      "title": "Asignación publicada",
+      "message": "Fuiste asignada como edecán en Academia Lili'rib.",
+      "read": true,
+      "eventId": 101,
+      "createdAt": "2026-07-15T09:10:00-06:00"
+    },
+    {
+      "id": 2,
+      "userId": 7,
+      "type": "cambio",
+      "title": "Horario actualizado",
+      "message": "Academia Fontaine ahora inicia a las 18:00. Tu llegada es a las 17:30.",
+      "read": true,
+      "eventId": 103,
+      "createdAt": "2026-07-15T14:20:00-06:00"
+    },
+    {
+      "id": 3,
+      "userId": 7,
+      "type": "cancelacion",
+      "title": "Evento cancelado",
+      "message": "Evento Extra fue cancelado por el cliente. No genera penalización.",
+      "read": true,
+      "eventId": 107,
+      "createdAt": "2026-07-15T16:00:00-06:00"
+    },
+    {
+      "id": 4,
+      "userId": 7,
+      "type": "evaluacion",
+      "title": "Evaluación disponible",
+      "message": "Puedes evaluar la coordinación de Graduación Monteverde durante 30 días.",
+      "read": true,
+      "eventId": 202,
+      "createdAt": "2026-07-10T21:00:00-06:00"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "type": "asignacion",
+      "title": "Asignado como coordinador",
+      "message": "Coordinarás Academia Flory Febles el sábado 18.",
+      "read": true,
+      "eventId": 105,
+      "createdAt": "2026-07-15T10:05:00-06:00"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "type": "report",
+      "title": "Reporte pendiente",
+      "message": "Completa el reporte de Gala Horizonte para cerrar el evento.",
+      "read": true,
+      "eventId": 201,
+      "createdAt": "2026-07-09T22:00:00-06:00"
+    },
+    {
+      "id": 7,
+      "userId": 3,
+      "type": "cambio",
+      "title": "Suplencia confirmada",
+      "message": "Claudia Pérez cubrirá la vacante de Academia Flory Febles.",
+      "read": true,
+      "eventId": 105,
+      "createdAt": "2026-07-15T12:35:00-06:00"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "type": "report",
+      "title": "Reporte recibido",
+      "message": "Daphne envió el reporte de Graduación Monteverde.",
+      "read": true,
+      "eventId": 202,
+      "createdAt": "2026-07-11T09:00:00-06:00"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "type": "pago",
+      "title": "Pago pendiente",
+      "message": "Gala Horizonte está lista para registrar pago.",
+      "read": true,
+      "eventId": 201,
+      "createdAt": "2026-07-10T09:00:00-06:00"
+    },
+    {
+      "userId": 1,
+      "type": "event_report",
+      "title": "Nuevo reporte · Academia Miriam Cazola",
+      "message": "Rodrigo Demostración registró incidencia en Academia Miriam Cazola.",
+      "read": true,
+      "eventId": 106,
+      "createdAt": "2026-07-25T18:14:35.677Z",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "type": "cancelacion_personal",
+      "title": "Cancelación de asignación solicitada",
+      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "read": true,
+      "eventId": 101,
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "type": "cancelacion_personal",
+      "title": "Cancelación de asignación solicitada",
+      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "read": false,
+      "eventId": 101,
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "type": "cancelacion_personal",
+      "title": "Cancelación de asignación solicitada",
+      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "read": false,
+      "eventId": 101,
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "type": "cancelacion_personal",
+      "title": "Cancelación de asignación solicitada",
+      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "read": false,
+      "eventId": 101,
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "type": "cancelacion_personal",
+      "title": "Cancelación de asignación solicitada",
+      "message": "Rocío Herrera retiró su disponibilidad de Academia Lili'rib después de haber sido asignado.",
+      "read": false,
+      "eventId": 101,
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 15
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "eventId": 201,
+      "coordinatorId": 3,
+      "status": "pendiente",
+      "generalComment": "",
+      "evaluations": []
+    },
+    {
+      "id": 2,
+      "eventId": 202,
+      "coordinatorId": 4,
+      "status": "enviado",
+      "generalComment": "Equipo puntual y con excelente actitud.",
+      "submittedAt": "2026-07-11T08:55:00-06:00",
+      "evaluations": [
+        {
+          "userId": 7,
+          "attended": true,
+          "uniformComplete": true,
+          "missingItems": [],
+          "rating": 5,
+          "observation": "Excelente atención."
+        },
+        {
+          "userId": 10,
+          "attended": true,
+          "uniformComplete": true,
+          "missingItems": [],
+          "rating": 4.5,
+          "observation": "Buen desempeño."
+        },
+        {
+          "userId": 13,
+          "attended": true,
+          "uniformComplete": true,
+          "missingItems": [],
+          "rating": 4.75,
+          "observation": "Muy puntual."
+        },
+        {
+          "userId": 14,
+          "attended": false,
+          "uniformComplete": true,
+          "missingItems": [],
+          "rating": 3,
+          "observation": "Ausencia registrada."
+        },
+        {
+          "userId": 15,
+          "attended": true,
+          "uniformComplete": true,
+          "missingItems": [],
+          "rating": 5,
+          "observation": "Apoyó al equipo."
+        },
+        {
+          "userId": 17,
+          "attended": true,
+          "uniformComplete": false,
+          "missingItems": [
+            "medias"
+          ],
+          "rating": 4.25,
+          "observation": "Uniforme incompleto."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "eventId": 203,
+      "coordinatorId": 6,
+      "status": "enviado",
+      "generalComment": "La suplencia se integró sin afectar el servicio.",
+      "submittedAt": "2026-07-12T10:30:00-06:00",
+      "evaluations": []
+    },
+    {
+      "id": 4,
+      "eventId": 204,
+      "coordinatorId": 6,
+      "status": "enviado",
+      "generalComment": "Operación sin incidencias.",
+      "submittedAt": "2026-07-13T09:15:00-06:00",
+      "evaluations": []
+    }
+  ],
+  "audits": [
+    {
+      "id": 1,
+      "eventId": 103,
+      "actorId": 1,
+      "action": "Cambio de horario",
+      "detail": "Inicio cambió de 17:30 a 18:00; llegada a 17:30.",
+      "createdAt": "2026-07-15T14:20:00-06:00"
+    },
+    {
+      "id": 2,
+      "eventId": 105,
+      "actorId": 1,
+      "action": "Cancelación",
+      "detail": "Janeth Luna canceló por motivo personal.",
+      "createdAt": "2026-07-15T12:00:00-06:00"
+    },
+    {
+      "id": 3,
+      "eventId": 105,
+      "actorId": 1,
+      "action": "Suplencia",
+      "detail": "Claudia Pérez cubre la asignación cancelada.",
+      "createdAt": "2026-07-15T12:30:00-06:00"
+    },
+    {
+      "id": 4,
+      "eventId": 107,
+      "actorId": 2,
+      "action": "Evento cancelado",
+      "detail": "Cancelación solicitada por el cliente; sin penalización al personal.",
+      "createdAt": "2026-07-15T16:00:00-06:00"
+    },
+    {
+      "eventId": 101,
+      "actorId": 1,
+      "action": "Asignación",
+      "detail": "Daniel Demostración asignado como edecan",
+      "createdAt": "2026-07-17T17:39:18.167Z",
+      "id": 5
+    },
+    {
+      "eventId": 101,
+      "actorId": 1,
+      "action": "Asignación",
+      "detail": "Félix Demostración asignado como edecan",
+      "createdAt": "2026-07-17T17:39:21.910Z",
+      "id": 6
+    },
+    {
+      "eventId": 104,
+      "actorId": 1,
+      "action": "Asignación",
+      "detail": "Daniel Demostración asignado como edecan",
+      "createdAt": "2026-07-17T17:39:28.171Z",
+      "id": 7
+    },
+    {
+      "eventId": 101,
+      "actorId": 1,
+      "action": "Coordinador designado",
+      "detail": "Félix Demostración asignado como coordinador",
+      "createdAt": "2026-07-17T18:11:40.693Z",
+      "id": 8
+    },
+    {
+      "eventId": 101,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Carlos Méndez asignado como edecan",
+      "createdAt": "2026-07-17T18:11:51.382Z",
+      "id": 9
+    },
+    {
+      "eventId": 102,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Carlos Méndez asignado como edecan",
+      "createdAt": "2026-07-17T18:27:59.506Z",
+      "id": 10
+    },
+    {
+      "eventId": 102,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Evelyn Ramírez asignado como edecan",
+      "createdAt": "2026-07-17T18:28:12.357Z",
+      "id": 11
+    },
+    {
+      "eventId": 101,
+      "actorId": 8,
+      "action": "Cancelación de participación solicitada",
+      "detail": "Rocío Herrera retiró su disponibilidad después de haber sido asignado como edecan.",
+      "createdAt": "2026-08-03T04:00:13.744Z",
+      "id": 12
+    },
+    {
+      "eventId": 101,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Daniel Demostración asignado como edecan",
+      "createdAt": "2026-08-03T04:00:46.924Z",
+      "id": 13
+    },
+    {
+      "eventId": 102,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Evelyn Ramírez asignado como edecan",
+      "createdAt": "2026-08-03T04:01:00.134Z",
+      "id": 14
+    },
+    {
+      "eventId": 105,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Janeth Luna asignado como edecan",
+      "createdAt": "2026-08-03T04:58:22.148Z",
+      "id": 15
+    },
+    {
+      "eventId": 106,
+      "actorId": 1,
+      "action": "Edecán designado",
+      "detail": "Antonio Demostración asignado como edecan",
+      "createdAt": "2026-08-03T04:59:06.537Z",
+      "id": 16
+    },
+    {
+      "eventId": 104,
+      "actorId": 1,
+      "action": "Coordinador designado",
+      "detail": "Sara Demostración asignado como coordinador",
+      "createdAt": "2026-08-03T05:26:06.524Z",
+      "id": 17
+    }
+  ],
+  "complaints": [
+    {
+      "id": 1,
+      "eventId": 202,
+      "type": "felicitacion",
+      "severity": "informativa",
+      "text": "El encargado destacó la puntualidad y presentación del equipo.",
+      "people": [
+        4,
+        7,
+        10,
+        13,
+        15,
+        17
+      ],
+      "createdAt": "2026-07-10T21:10:00-06:00"
+    },
+    {
+      "id": 2,
+      "eventId": 203,
+      "type": "incidencia",
+      "severity": "seguimiento",
+      "text": "Se solicitó una suplencia dos horas antes; se cubrió a tiempo.",
+      "people": [
+        11,
+        16
+      ],
+      "createdAt": "2026-07-11T17:00:00-06:00"
+    }
+  ],
+  "eventReports": [
+    {
+      "id": 1,
+      "eventId": 202,
+      "authorId": 4,
+      "kind": "felicitacion",
+      "text": "Equipo puntual y con excelente actitud durante todo el evento.",
+      "createdAt": "2026-07-11T08:55:00-06:00"
+    },
+    {
+      "id": 2,
+      "eventId": 203,
+      "authorId": 6,
+      "kind": "seguimiento",
+      "text": "La suplencia se integró sin afectar el servicio. Se recomienda conservar el antecedente.",
+      "createdAt": "2026-07-12T10:30:00-06:00"
+    },
+    {
+      "id": 3,
+      "eventId": 204,
+      "authorId": 6,
+      "kind": "observacion",
+      "text": "Operación sin incidencias y cierre conforme al horario previsto.",
+      "createdAt": "2026-07-13T09:15:00-06:00"
+    },
+    {
+      "eventId": 106,
+      "authorId": 1,
+      "kind": "incidencia",
+      "text": "Durante el montaje se presentó un retraso de aproximadamente 20 minutos debido a que el acceso principal aún no estaba habilitado. El equipo permaneció completo y listo en la sede. Al abrirse el acceso, el coordinador reorganizó las posiciones y el evento continuó sin afectar la atención a los asistentes. No se presentaron más incidencias.",
+      "createdAt": "2026-07-25T18:08:07.802Z",
+      "id": 4
+    },
+    {
+      "eventId": 106,
+      "authorId": 5,
+      "kind": "incidencia",
+      "text": "..",
+      "createdAt": "2026-07-25T18:14:35.654Z",
+      "id": 5
+    }
+  ],
+  "performanceRatings": [
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 6,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T00:53:18.082Z",
+      "id": 1
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 7,
+      "score": 8,
+      "comment": "",
+      "createdAt": "2026-07-18T00:53:29.942Z",
+      "id": 2
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 9,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T00:53:38.548Z",
+      "id": 3
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 13,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T00:53:46.598Z",
+      "id": 5
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 15,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T00:53:56.209Z",
+      "id": 6
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 1,
+      "targetId": 17,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T00:54:04.536Z",
+      "id": 7
+    },
+    {
+      "eventId": 203,
+      "evaluatorId": 1,
+      "targetId": 6,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:13.459Z",
+      "id": 8
+    },
+    {
+      "eventId": 203,
+      "evaluatorId": 1,
+      "targetId": 8,
+      "score": 9,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:13.460Z",
+      "id": 9
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 15,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.897Z",
+      "id": 10
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 4,
+      "score": 8,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.895Z",
+      "id": 11
+    },
+    {
+      "eventId": 203,
+      "evaluatorId": 1,
+      "targetId": 16,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:13.460Z",
+      "id": 12
+    },
+    {
+      "eventId": 203,
+      "evaluatorId": 1,
+      "targetId": 12,
+      "score": 8,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:13.461Z",
+      "id": 13
+    },
+    {
+      "eventId": 203,
+      "evaluatorId": 1,
+      "targetId": 18,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:13.461Z",
+      "id": 14
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 17,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.897Z",
+      "id": 15
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 13,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.896Z",
+      "id": 16
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 7,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.896Z",
+      "id": 17
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 1,
+      "targetId": 10,
+      "score": 6,
+      "comment": "",
+      "createdAt": "2026-07-18T01:07:30.896Z",
+      "id": 18
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 7,
+      "targetId": 3,
+      "score": 8,
+      "comment": "",
+      "createdAt": "2026-07-18T01:11:37.337Z",
+      "id": 19
+    },
+    {
+      "eventId": 204,
+      "evaluatorId": 7,
+      "targetId": 6,
+      "score": 7,
+      "comment": "",
+      "createdAt": "2026-07-18T01:11:55.028Z",
+      "id": 20
+    },
+    {
+      "eventId": 202,
+      "evaluatorId": 7,
+      "targetId": 4,
+      "score": 8,
+      "comment": "",
+      "createdAt": "2026-07-18T01:11:58.785Z",
+      "id": 21
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 3,
+      "score": 8,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.342Z",
+      "id": 22
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 7,
+      "score": 6,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.343Z",
+      "id": 23
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 8,
+      "score": 10,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.343Z",
+      "id": 24
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 9,
+      "score": 10,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.343Z",
+      "id": 25
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 12,
+      "score": 10,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.344Z",
+      "id": 26
+    },
+    {
+      "eventId": 201,
+      "evaluatorId": 1,
+      "targetId": 11,
+      "score": 10,
+      "comment": "",
+      "uniformComplete": true,
+      "missingUniform": [],
+      "onTime": true,
+      "arrivalTime": "",
+      "createdAt": "2026-07-25T18:34:23.344Z",
+      "id": 27
+    }
+  ]
+}
