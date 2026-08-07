@@ -322,6 +322,23 @@
       "substitutions": 0,
       "uniform": "masculino",
       "id": 19
+    },
+    {
+      "id": 20,
+      "name": "Vianey Rodriguez",
+      "password": "123456",
+      "mustChangePassword": true,
+      "profileComplete": false,
+      "role": "edecan",
+      "phone": "999 000 0000",
+      "email": "demo20@example.com",
+      "active": true,
+      "avatar": "#ead1ef",
+      "rating": 0,
+      "attended": 0,
+      "cancellations": 0,
+      "substitutions": 0,
+      "uniform": "femenino"
     }
   ],
   "weeks": [
