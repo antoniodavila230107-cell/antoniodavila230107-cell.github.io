@@ -334,7 +334,7 @@
       "email": "demo20@example.com",
       "active": true,
       "avatar": "#ead1ef",
-      "rating": 0,
+      "rating": 10,
       "attended": 0,
       "cancellations": 0,
       "substitutions": 0,
@@ -1012,6 +1012,41 @@
       "available": true,
       "submittedAt": "2026-08-03T05:03:22.118Z",
       "id": 59
+    },
+    {
+      "id": 60,
+      "userId": 20,
+      "eventId": 101,
+      "available": true,
+      "submittedAt": "2026-07-15T18:00:00-06:00"
+    },
+    {
+      "id": 61,
+      "userId": 20,
+      "eventId": 103,
+      "available": true,
+      "submittedAt": "2026-07-15T18:01:00-06:00"
+    },
+    {
+      "id": 62,
+      "userId": 20,
+      "eventId": 104,
+      "available": true,
+      "submittedAt": "2026-07-15T18:02:00-06:00"
+    },
+    {
+      "id": 63,
+      "userId": 20,
+      "eventId": 105,
+      "available": true,
+      "submittedAt": "2026-07-15T18:03:00-06:00"
+    },
+    {
+      "id": 64,
+      "userId": 20,
+      "eventId": 106,
+      "available": true,
+      "submittedAt": "2026-07-15T18:04:00-06:00"
     }
   ],
   "assignments": [
